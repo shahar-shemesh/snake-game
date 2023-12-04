@@ -2,7 +2,7 @@
 # Snake Game in C++
 ![snake-game-gif](https://github.com/shahar-shemesh/snake-game/assets/62644579/135fe1cf-0bbf-4d08-8ecc-60d6b8647156)
 
-![preview](https://i.postimg.cc/X7X1cvmP/268031982-135fe1cf-0bbf-4d08-8ecc-60d6b8647156.gif)
+preview: (https://i.postimg.cc/X7X1cvmP/268031982-135fe1cf-0bbf-4d08-8ecc-60d6b8647156.gif)
 
 
 This is a classic Snake game implemented in C++. In the gameplay experience, the player controls a snake that grows in length as it consumes food while avoiding collisions with itself.
